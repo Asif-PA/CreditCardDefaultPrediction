@@ -1,8 +1,8 @@
-<h1 align='center'> :microscope: Regression Analysis On Yes Bank Stock Closing Price Prediction.<h1>
+<h1 align='center'> :microscope: Credit Card Default Prediction.<h1>
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
-## This repository contains the code and dataset for predicting the closing price of Yes Bank stock using regression analysis. The project uses a dataset containing historical stock prices of Yes Bank from 2005 to 2020
+## This repository contains the code and dataset for predicting credit card defaulters. The project uses a dataset containing past credit card users behaviour and information
 
 ![--------------------------------------------------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/grass.png)
 
